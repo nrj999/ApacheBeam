@@ -1,0 +1,5 @@
+UserId,Cost,Currency,Rate
+86,120,USD,1
+96,150,CAD,1.3
+56,150,JPY,1.7
+16,150,CAD,1.3
